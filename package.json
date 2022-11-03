@@ -14,5 +14,17 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.11.1",
+    "babel-jest": "^29.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RikRox/BookSearchEngine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RikRox/BookSearchEngine/issues"
+  },
+  "homepage": "https://github.com/RikRox/BookSearchEngine#readme"
 }
